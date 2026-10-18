@@ -2,7 +2,7 @@
 ## Retail Sales Analytics Dashboard
 This report contains an analysis of Superstore sales data.
 
-### Business Problem
+## Business Problem
 
 The management wants to figure out how the business is performing across products, customers, regions, and time. This project report answers:
 
@@ -14,10 +14,10 @@ The management wants to figure out how the business is performing across product
 6. Which products or areas need attention?
 7. What should management do next?
 
-### Dataset
+## Dataset
 
-Source: Superstore Sales dataset (Kaggle) | Kaggle
-Size: 9994+ rows, 21 columns
-Period: 7 September to 12 October [extended to 19 October]
-Scope: 9994 orders, 793 customers, 1850 products, 4 regions
-A data dictionary is in 02_Cleaned_Data/data_dictionary.md
+**Source**: Superstore Sales dataset (Kaggle) | Kaggle
+**Size**: 9994+ rows, 21 columns
+**Period**: 7 September to 12 October [extended to 19 October]
+**Scope**: 9994 orders, 793 customers, 1850 products, 4 regions
+A **data dictionary** is in 02_Cleaned_Data/data_dictionary.md

@@ -20,4 +20,4 @@ The management wants to figure out how the business is performing across product
 - **Size**: 9994+ rows, 21 columns
 - **Period**: 7 September to 12 October [extended to 19 October]
 - **Scope**: 9994 orders, 793 customers, 1850 products, 4 regions
-A **data dictionary** is in [02_Cleaned_Data/data_dictionary.md]
+- A **data dictionary** is in 02_Cleaned_Data/data_dictionary.md

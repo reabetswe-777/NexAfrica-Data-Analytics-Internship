@@ -19,5 +19,5 @@ The management wants to figure out how the business is performing across product
 - **Source**: Superstore Sales dataset (Kaggle) | [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 - **Size**: 9994+ rows, 21 columns
 - **Period**: 7 September to 12 October [extended to 19 October]
-- **Scope**: 9994 orders, 793 customers, 1850 products, 4 regions
+- **Scope**: 5009 orders, 793 customers, 1850 products, 4 regions
 - A **data dictionary** is in 02_Cleaned_Data/data_dictionary.md
